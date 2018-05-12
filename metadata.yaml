@@ -1,0 +1,32 @@
+_repo: '---_25517'
+_version: 0.1.0
+alternative_title: Chuan xi lu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wang, Yangming
+    aliases:
+    - Wang, Shouren
+    - 王陽明
+    birthdate: 1472
+    deathdate: 1529
+    gutenberg_agent_id: '31097'
+    url: http://www.gutenberg.org/2009/agents/31097
+    wikipedia: http://en.wikipedia.org/wiki/Wang_Yangming
+description: ''
+gutenberg_issued: '2008-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25517'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy, Chinese -- 960-1644'
+- !lcsh 'Neo-Confucianism -- China'
+title: 傳習錄
+url: http://www.gutenberg.org/ebooks/25517
